@@ -102,7 +102,7 @@ python main.py
 ## 👨‍💻 Author
 
 **Tayef Hossain Nabil**
-Junior Web Developer | Python & Pygame Enthusiast
+Web Developer | Python & Pygame Enthusiast
 
 * 🌐 Boot.dev Profile: [https://www.boot.dev/u/mdtayef](https://www.boot.dev/u/mdtayef)
 
