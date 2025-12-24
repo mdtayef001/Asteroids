@@ -78,7 +78,7 @@ python main.py
 
 ## 🕹️ Controls
 
-* **Arrow Keys / WASD** → Move the spaceship
+* **WASD** → Move the spaceship
 * **Spacebar** → Shoot
 
 ---
